@@ -25,14 +25,14 @@
         <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,c,css,linux,git,github,html,java,js,linux,py,vscode&perline=8"alt="My Skills"/> 
     </a>
 </p>
-### My favourite song:
+<h3>My favourite song:</h3>
 <div>
-     <p align="center"><a href = "https://www.youtube.com/watch?v=fLsBJPlGIDU"><img  src ="https://upload.wikimedia.org/wikipedia/en/2/20/Arcticmonkeys-humbug.jpg" width="170" align="right"></a><b><br><br>Crying Lightning - Arctic Monkeys</b></p>
+     <p align="center"><a href = "https://www.youtube.com/watch?v=fLsBJPlGIDU"><img  src ="https://upload.wikimedia.org/wikipedia/en/2/20/Arcticmonkeys-humbug.jpg" width="170" align="center"></a><b><br><br>Crying Lightning - Arctic Monkeys</b></p>
 </div>
 
 ## GitHub Stats
 <div>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=y0shiro28&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=y0shiro28&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </div>
 
 <div>
