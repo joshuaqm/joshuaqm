@@ -10,13 +10,11 @@
 
 
 ### Connect with me:
-<p align="center">
-     [![website](./img/twitter-dark.svg)](https://twitter.com/YoshiQuinteroM)
-     &nbsp;&nbsp;
-     [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/joshuaquinterom/)
-     &nbsp;&nbsp;
-     [![website](./img/instagram-dark.svg)](https://www.instagram.com/yoshi.php)
-</p>
+[![website](./img/twitter-dark.svg)](https://twitter.com/YoshiQuinteroM)
+&nbsp;&nbsp;
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/joshuaquinterom/)
+&nbsp;&nbsp;
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/yoshi.php)
 
 ### Languages and Tools:
 
