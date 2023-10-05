@@ -21,6 +21,11 @@
 
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,c,css,linux,git,github,html,java,js,linux,py,vscode,aws&perline=8"alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,c,css,linux,git,github,html,java,js,linux,py,vscode&perline=8"alt="My Skills"/> 
     </a>
 </p>
+
+## GitHub Stats
+<div>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=y0shiro28&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</div>
