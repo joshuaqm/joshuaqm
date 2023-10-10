@@ -26,7 +26,11 @@
 <h3>My favorite songs:</h3>
 <div>
      <p align="left"><a href = "https://www.youtube.com/watch?v=y3JcRIfX5Ao"><img src = "https://e-cdn-images.dzcdn.net/images/cover/017bcf2835f0623903c841a7b60ce0a2/264x264-000000-80-0-0.jpg"width="170" align="left"></a><b><br><br>Intro  - Junior H</b></p>
+     <br>
+     <br>
      <p align="center"><a href = "https://www.youtube.com/watch?v=fLsBJPlGIDU"><img  src ="https://upload.wikimedia.org/wikipedia/en/2/20/Arcticmonkeys-humbug.jpg" width="170" align="center"></a><b><br><br>Crying Lightning - Arctic Monkeys</b></p>
+     <br>
+     <br>
       <p align="right"><a href = "https://www.youtube.com/watch?v=hoQmSA6MRAk"><img src = "https://agujarocosa.files.wordpress.com/2019/01/49635244_750725488660544_6890404531050381312_n.jpg?w=816"width="170" align="right"></a><b><br><br>Otra Noche en Miami - Bad Bunny</b></p>
 </div>
 
