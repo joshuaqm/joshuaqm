@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 ## I'm a Student, Teacher and Developer!!
 
 - 🌱 I’m currently learning Web Development and Android Development.
