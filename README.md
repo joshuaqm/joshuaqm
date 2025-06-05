@@ -47,15 +47,15 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=y3JcRIfX5Ao"><img src="https://e-cdn-images.dzcdn.net/images/cover/017bcf2835f0623903c841a7b60ce0a2/264x264-000000-80-0-0.jpg" width="100px" alt="Portada Cruisin' with Junior H" /></a>
+      <a href="https://www.youtube.com/watch?v=y3JcRIfX5Ao" target="_blank"><img src="https://e-cdn-images.dzcdn.net/images/cover/017bcf2835f0623903c841a7b60ce0a2/264x264-000000-80-0-0.jpg" width="100px" alt="Portada Cruisin' with Junior H" /></a>
       <br><sub><b>Intro - Junior H</b></sub>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=fLsBJPlGIDU"><img src="https://upload.wikimedia.org/wikipedia/en/2/20/Arcticmonkeys-humbug.jpg" width="100px" alt="Portada Humbug" /></a>
+      <a href="https://www.youtube.com/watch?v=fLsBJPlGIDU" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/2/20/Arcticmonkeys-humbug.jpg" width="100px" alt="Portada Humbug" /></a>
       <br><sub><b>Crying Lightning - Arctic Monkeys</b></sub>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=a-vcZ__TvZs&ab_channel=Nsqk"><img src="https://i.pinimg.com/736x/ca/fb/e2/cafbe2cbd9bc3d85f47fbf654a90c95e.jpg" width="100px" alt="Portada ROY" /></a>
+      <a href="https://www.youtube.com/watch?v=a-vcZ__TvZs&ab_channel=Nsqk" target="_blank"><img src="https://i.pinimg.com/736x/ca/fb/e2/cafbe2cbd9bc3d85f47fbf654a90c95e.jpg" width="100px" alt="Portada ROY" /></a>
       <br><sub><b>Corazón: Classics - Nsqk</b></sub>
     </td>
   </tr>
@@ -65,9 +65,9 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://twitter.com/YoshiQuinteroM"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/joshuaquinterom/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/yoshi.mp3"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/YoshiQuinteroM" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/joshuaquinterom/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/yoshi.mp3" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -76,18 +76,25 @@
 <summary>🎨 Click to reveal some ASCII art</summary>
 
 ```
-⠀⠀⠀⠀⢀⣴⣶⠿⠟⠻⠿⢷⣦⣄⠀⠀⠀
-⠀⠀⠀⠀⣾⠏⠀⠀⣠⣤⣤⣤⣬⣿⣷⣄⡀
-⠀⢀⣀⣸⡿⠀⠀⣼⡟⠁⠀⠀⠀⠀⠀⠙⣷
-⢸⡟⠉⣽⡇⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⢀⣿
-⣾⠇⠀⣿⡇⠀⠀⠘⠿⢶⣶⣤⣤⣶⡶⣿⠋
-⣿⠂⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠃
-⣿⡆⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀
-⢿⡇⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠀
-⠘⠻⠷⢿⡇⠀⠀⠀⣴⣶⣶⠶⠖⠀⢸⡟⠀
-⠀⠀⠀⢸⣇⠀⠀⠀⣿⡇⣿⡄⠀⢀⣿⠇⠀
-⠀⠀⠀⠘⣿⣤⣤⣴⡿⠃⠙⠛⠛⠛⠋⠀⠀
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⣶⣶⣶⣶⣶⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⡿⠛⠉⠙⠛⠛⠛⠛⠻⢿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠋⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠈⢻⣿⣿⡄⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣸⣿⡏⠀⠀⠀⢀⣴⣾⣿⣿⣿⠿⠿⠿⢿⣿⣿⣷⡄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣿⣿⠁⠀⠀⠀⣿⣿⣯⠁⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣷⡄⠀⠀
+⠀⠀⣀⣤⣴⣶⣶⣿⡇⠀⠀⠀⢸⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣷⡄⠀
+⠀⢰⣿⡟⠋⠉⣿⣿⠀⠀⠀⠀⠘⣿⣿⣿⣿⣷⣦⣤⣤⣤⣶⣶⣶⣶⣿⣿⡇⠀⠀
+⠀⢸⣿⡇⠀⠀⣿⣿⡇⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀
+⠀⣸⣿⡇⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠉⠻⠿⣿⣿⣿⣿⡿⠿⠿⢛⣻⡿⠁⠀⠀⠀
+⠀⣿⣿⠁⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀⠀
+⠀⣿⣿⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀⠀
+⠀⣿⣿⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀⠀
+⠀⢿⣿⡆⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀⠀
+⠀⠸⣿⣧⡀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⡇⠀⠀⠀
+⠀⠀⠛⢿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⣰⣿⣿⣷⣶⣶⣶⣶⠶⢘⣿⣿⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⣿⣿⡇⠀⣽⣿⡏⠁⠀⠀⢸⣿⡇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⣿⣿⡇⠀⢹⣿⡆⠀⠀⠀⣸⣿⠇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢿⣿⣦⣄⣀⣠⣴⣿⣿⠀⠀⠈⠻⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⠛⠻⠿⠿⠿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
 </details>
