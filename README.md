@@ -15,7 +15,7 @@
 ### 🧰 Technologies and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,php,js,html,css,laravel,react,django,mysql,git,github,linux,vscode&perline=8" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,php,js,html,css,laravel,django,mysql,git,github,linux,vscode&perline=8" alt="Skills" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 ### 🌟 Highlight Projects
 - 🈶 [RAG for Kanji Learning](https://github.com/joshuaqm/rag-sensei)  
-- 🎮 [3D Game in C and OpenGL](https://github.com/joshuaqm/319098147_proyectoFinal_gpo05)  
+- 🎮 [3D Game in C and OpenGL](https://github.com/joshuaqm/Regular-Show-House-3D)  
 - 🏫 [School Grading System](https://github.com/joshuaqm/SistemaCalificaciones)
 
 ---
