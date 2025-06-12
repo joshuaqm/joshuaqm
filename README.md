@@ -22,7 +22,7 @@
 ---
 
 ### 🌟 Highlight Projects
-- 🈶 [RAG for Kanji Learning](https://github.com/joshuaqm/rag-sensei)  
+- 🈶 [RAG for Kanji Learning](https://github.com/joshuaqm/RAG-sensei)  
 - 🎮 [3D Game in C and OpenGL](https://github.com/joshuaqm/Regular-Show-House-3D)  
 - 🏫 [School Grading System](https://github.com/joshuaqm/SistemaCalificaciones)
 
