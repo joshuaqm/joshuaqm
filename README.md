@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=0f2027,203a43,2c5364" alt="Wave Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Bienvenido!&fontAlign=80&fontAlignY=40&color=00c6ff,0072ff,0050b3" alt="Wave Header"/>
 
 <h1 align="center">Hi there 👋, I'm Joshua</h1>
 <h3 align="center">Student, Web Developer & AI Enthusiast</h3>
@@ -32,15 +32,22 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaqm&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaqm&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=joshuaqm&show_icons=true&theme=radical&hide_border=false" alt="GitHub stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=joshuaqm&theme=radical&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuaqm&show_icons=true&theme=radical&hide_border=false" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joshuaqm&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
 
 
 ---
@@ -106,4 +113,4 @@
 ```
 
 </details>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0f2027,203a43,2c5364" alt="Wave Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=00c6ff,0072ff,0050b3" alt="Wave Footer"/>
