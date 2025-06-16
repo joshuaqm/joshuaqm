@@ -15,8 +15,9 @@
 ### 🧰 Technologies and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,php,js,html,css,laravel,django,mysql,git,github,linux,vscode&perline=8" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=anaconda,bootstrap,c,cpp,css,django,docker,figma,git,github,html,java,js,laravel,latex,linux,mysql,npm,notion,php,ps,py,sklearn,tailwind,vscode,vue,windows&perline=8" alt="Skills" />
   </a>
+
 </p>
 
 ---
