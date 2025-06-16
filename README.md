@@ -1,4 +1,4 @@
-<img <img src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient" alt="Wave Header" style="max-width: 100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient" alt="Wave Header" style="max-width: 100%;" />
 
 
 <h1 align="center">Hi there 👋, I'm Joshua</h1>
